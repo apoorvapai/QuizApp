@@ -38,5 +38,5 @@ To get this project up and running on your local machine, follow these steps:
 2. **Navigate to the project directory:**
    ```bash
    cd quiz-application
-3. **Open index.html in your web browser**
+3. **Open index.html in your web browser** <br>
    You can do this by double-clicking the index.html file or by using a local server if you prefer.
